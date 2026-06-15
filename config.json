@@ -82,6 +82,30 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "sqlite-sqlalchemy",
+      "title": "SQLite & SQLAlchemy — Persistent CRUD",
+      "description": "Model data and perform persistent CRUD using SQLite and SQLAlchemy.",
+      "path": "assignments/sqlite-sqlalchemy",
+      "dueDate": "2026-06-22",
+      "attachments": [
+        {
+          "name": "Assignment README",
+          "file": "README.md",
+          "type": "markdown"
+        },
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
