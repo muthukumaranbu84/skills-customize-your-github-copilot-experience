@@ -58,6 +58,30 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a REST API using FastAPI, Pydantic models, and in-memory storage.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-06-22",
+      "attachments": [
+        {
+          "name": "Assignment README",
+          "file": "README.md",
+          "type": "markdown"
+        },
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
